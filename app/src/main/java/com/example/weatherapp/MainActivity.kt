@@ -6,7 +6,7 @@ import android.util.Log
 import android.widget.SearchView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.weatherapp.databinding.ActivityMainBinding
-//import com.example.weatherapp.R // Corrected import statement for R class
+//import com.example.weatherapp.R
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
